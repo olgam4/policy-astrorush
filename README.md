@@ -1,4 +1,4 @@
-# astrorysh
+# astrorush
 Privacy Policy
 
 Olivier Gamache built the Astrorush app as a Free app. This SERVICE is provided by Olivier Gamache at no cost and is intended for use as is.
